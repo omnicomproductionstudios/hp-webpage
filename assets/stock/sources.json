@@ -1,0 +1,501 @@
+{
+  "provider": "Pexels",
+  "license": "https://www.pexels.com/license/",
+  "images": [
+    {
+      "original": "assets/hp_com/Cashmere_XI_14_Flip_EliteBook_X_Flip_G2i_NGAI_PC-40cce739f9ad0af730460e02a0233f2eeee52be9d5d77ea368894664b13a25fe.png",
+      "replacement": "assets/stock/laptop-8533592-1622x1178.jpg",
+      "category": "laptop",
+      "width": 1622,
+      "height": 1178,
+      "source": "https://www.pexels.com/photo/photo-of-a-silver-laptop-8533592/",
+      "download": "https://images.pexels.com/photos/8533592/pexels-photo-8533592.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1622&h=1178"
+    },
+    {
+      "original": "assets/hp_com/Dock-fdd08d2efd6afd965f980eef803e7fef5068a2944b3976531a665a526e0690c3.jpg",
+      "replacement": "assets/stock/desk-7873551-564x500.jpg",
+      "category": "desk",
+      "width": 564,
+      "height": 500,
+      "source": "https://www.pexels.com/photo/7873551/",
+      "download": "https://images.pexels.com/photos/7873551/pexels-photo-7873551.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=564&h=500"
+    },
+    {
+      "original": "assets/hp_com/built-for-mobility-dekstop-2x-d19bb9252e086e5551733036fc48415ddeaeff83ff917c014298ac5ce06d6b04.jpg",
+      "replacement": "assets/stock/office-8518624-2000x625.jpg",
+      "category": "office",
+      "width": 2000,
+      "height": 625,
+      "source": "https://www.pexels.com/photo/8518624/",
+      "download": "https://images.pexels.com/photos/8518624/pexels-photo-8518624.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=2000&h=625"
+    },
+    {
+      "original": "assets/hp_com/built-for-mobility-mob-2x-f6cff06277311757edccb22056c26e1c4dfd8d990decb0f66864101324ab6143.jpg",
+      "replacement": "assets/stock/office-8518624-720x1200.jpg",
+      "category": "office",
+      "width": 720,
+      "height": 1200,
+      "source": "https://www.pexels.com/photo/8518624/",
+      "download": "https://images.pexels.com/photos/8518624/pexels-photo-8518624.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=720&h=1200"
+    },
+    {
+      "original": "assets/hp_com/business-computers-402x-b329043a41915116a52fa918765dfe0009b1c72d9bb4cc52254b6fa3586f20d2.jpg",
+      "replacement": "assets/stock/laptop-8533592-540x441.jpg",
+      "category": "laptop",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/photo-of-a-silver-laptop-8533592/",
+      "download": "https://images.pexels.com/photos/8533592/pexels-photo-8533592.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/business-printing-402x-aa466c25b9a5ca21a4c86bbddf9697fbf9a78f1de48433ae256ceb0dd1a0b9df.jpg",
+      "replacement": "assets/stock/printer-7964429-540x441.jpg",
+      "category": "printer",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/7964429/",
+      "download": "https://images.pexels.com/photos/7964429/pexels-photo-7964429.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/carpacks-and-services-402x-f8e1abd6e2ae2f6f478ee73c0cd94d6a42ac8e4f95f70db2ecd857042e872a73.jpg",
+      "replacement": "assets/stock/meeting-7652176-540x441.jpg",
+      "category": "meeting",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/7652176/",
+      "download": "https://images.pexels.com/photos/7652176/pexels-photo-7652176.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/check-warranty-402x-3a4bcf55ff0d0403e64d2038abe82687c21f4d4bfde0acf0906493231dad05ac.jpg",
+      "replacement": "assets/stock/office-8518624-540x441.jpg",
+      "category": "office",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/8518624/",
+      "download": "https://images.pexels.com/photos/8518624/pexels-photo-8518624.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/commercial-solutions-402x-a1ddd958199fd63c171e3b7d8a6534998c5395f5c995816fe0e35d7341bfb813.jpg",
+      "replacement": "assets/stock/meeting-7652176-540x441.jpg",
+      "category": "meeting",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/7652176/",
+      "download": "https://images.pexels.com/photos/7652176/pexels-photo-7652176.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/computer-accessories-402x-12a4a47b01c3e71feb0c5d3d8205d36e38c28c8ae7be4f98e3372e6aab4d42ae.jpg",
+      "replacement": "assets/stock/desk-7873551-540x441.jpg",
+      "category": "desk",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/7873551/",
+      "download": "https://images.pexels.com/photos/7873551/pexels-photo-7873551.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/contact-us-402x-3c09fc736e06b98124b53344e04066858a8e056ead24955fe4c7c2e5a66669bf.jpg",
+      "replacement": "assets/stock/meeting-7652176-540x441.jpg",
+      "category": "meeting",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/7652176/",
+      "download": "https://images.pexels.com/photos/7652176/pexels-photo-7652176.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/desktops-for-gaming-402x-9e588537e81c99ba0c8e0e2fb4f118da1fa07f40895f6290d3d748a39a8d2895.jpg",
+      "replacement": "assets/stock/gaming-7845312-540x441.jpg",
+      "category": "gaming",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/7845312/",
+      "download": "https://images.pexels.com/photos/7845312/pexels-photo-7845312.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/desktops-for-home-402x-b667cd04ebb389d9ab1e9e05a0896245a4c0bbc98fc892e7d121aad257892666.jpg",
+      "replacement": "assets/stock/monitor-27559512-540x441.jpg",
+      "category": "monitor",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/27559512/",
+      "download": "https://images.pexels.com/photos/27559512/pexels-photo-27559512.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/desktops-for-work2-402x-3276586b726eeaa96a5a3df8c00fd44507ef810c93795cc12bfbba5e2372dcd5.jpg",
+      "replacement": "assets/stock/monitor-27559512-540x441.jpg",
+      "category": "monitor",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/27559512/",
+      "download": "https://images.pexels.com/photos/27559512/pexels-photo-27559512.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/elitebook-x-g2-back-to-back-2x-54c476a49010d8c09d12da6bc0bb948dd446c0e08748c081830c58cae24ceccb.jpg",
+      "replacement": "assets/stock/laptop-8533592-2000x1101.jpg",
+      "category": "laptop",
+      "width": 2000,
+      "height": 1101,
+      "source": "https://www.pexels.com/photo/photo-of-a-silver-laptop-8533592/",
+      "download": "https://images.pexels.com/photos/8533592/pexels-photo-8533592.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=2000&h=1101"
+    },
+    {
+      "original": "assets/hp_com/elitebook-x-g2i-sleek-thin-2x-fec89ca5deefbf682a30409b7270429c41dfa83cc6b7c98463830daf65bb2430.png",
+      "replacement": "assets/stock/laptop-8533592-1648x1372.jpg",
+      "category": "laptop",
+      "width": 1648,
+      "height": 1372,
+      "source": "https://www.pexels.com/photo/photo-of-a-silver-laptop-8533592/",
+      "download": "https://images.pexels.com/photos/8533592/pexels-photo-8533592.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1648&h=1372"
+    },
+    {
+      "original": "assets/hp_com/elitebook-x-g2i-top-view-2x-5207d5911d6bfc39a4e7ac43ea472eebac09e54137d1a90b142750cb3e117def.jpg",
+      "replacement": "assets/stock/desk-7873551-1648x1372.jpg",
+      "category": "desk",
+      "width": 1648,
+      "height": 1372,
+      "source": "https://www.pexels.com/photo/7873551/",
+      "download": "https://images.pexels.com/photos/7873551/pexels-photo-7873551.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1648&h=1372"
+    },
+    {
+      "original": "assets/hp_com/elitebook-x-series_hero-desktop-2x-1b6c6f829c4d99b916a820877b22a48c06686a71b051697850839da44744e879.jpg",
+      "replacement": "assets/stock/laptop-8533592-1930x1300.jpg",
+      "category": "laptop",
+      "width": 1930,
+      "height": 1300,
+      "source": "https://www.pexels.com/photo/photo-of-a-silver-laptop-8533592/",
+      "download": "https://images.pexels.com/photos/8533592/pexels-photo-8533592.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1930&h=1300"
+    },
+    {
+      "original": "assets/hp_com/elitebook-x-series_hero-mob-2x-bb7c340c606d5b7359e00723196ab8d55b6387185b290c1535a49241a1386c68.jpg",
+      "replacement": "assets/stock/laptop-8533592-360x307.jpg",
+      "category": "laptop",
+      "width": 360,
+      "height": 307,
+      "source": "https://www.pexels.com/photo/photo-of-a-silver-laptop-8533592/",
+      "download": "https://images.pexels.com/photos/8533592/pexels-photo-8533592.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=360&h=307"
+    },
+    {
+      "original": "assets/hp_com/full-elite-portfolio-desktop-2x-189673f69b15ec1afc8040fab76eff87f4ff6a096ba525bb15f3ea1d51891645.jpg",
+      "replacement": "assets/stock/laptop-8533592-1920x976.jpg",
+      "category": "laptop",
+      "width": 1920,
+      "height": 976,
+      "source": "https://www.pexels.com/photo/photo-of-a-silver-laptop-8533592/",
+      "download": "https://images.pexels.com/photos/8533592/pexels-photo-8533592.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1920&h=976"
+    },
+    {
+      "original": "assets/hp_com/full-elite-portfolio-mob-2x-3dc313519b1b3f6eeb17f75f081d54184703652ec476ff8d5a0e32dd0ce9a829.jpg",
+      "replacement": "assets/stock/laptop-8533592-720x596.jpg",
+      "category": "laptop",
+      "width": 720,
+      "height": 596,
+      "source": "https://www.pexels.com/photo/photo-of-a-silver-laptop-8533592/",
+      "download": "https://images.pexels.com/photos/8533592/pexels-photo-8533592.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=720&h=596"
+    },
+    {
+      "original": "assets/hp_com/gaming-accessories2-402x-ab59668b4dc4b9821b212b0233b1cede6a7d9efb074f279dff77fb14dc5b2f12.jpg",
+      "replacement": "assets/stock/gaming-7845312-540x441.jpg",
+      "category": "gaming",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/7845312/",
+      "download": "https://images.pexels.com/photos/7845312/pexels-photo-7845312.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/hp-elite-book-x-flip-g-1-i-next-gen-ai-pc-1-2x1-86d9ec98451daa29cdcccb75c57a451ec6b058eef6c9cf37be05630a85c78dd1.jpg",
+      "replacement": "assets/stock/laptop-8533592-738x364.jpg",
+      "category": "laptop",
+      "width": 738,
+      "height": 364,
+      "source": "https://www.pexels.com/photo/photo-of-a-silver-laptop-8533592/",
+      "download": "https://images.pexels.com/photos/8533592/pexels-photo-8533592.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=738&h=364"
+    },
+    {
+      "original": "assets/hp_com/hp-elite-book-x-flip-g-1-i-next-gen-ai-pc-1-2x11-feac7fe6c4427b045c11e1f603067edbcd8e09ade3943650872872b65cfe3fd7.jpg",
+      "replacement": "assets/stock/laptop-8533592-738x364.jpg",
+      "category": "laptop",
+      "width": 738,
+      "height": 364,
+      "source": "https://www.pexels.com/photo/photo-of-a-silver-laptop-8533592/",
+      "download": "https://images.pexels.com/photos/8533592/pexels-photo-8533592.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=738&h=364"
+    },
+    {
+      "original": "assets/hp_com/hp-elite-book-x-flip-g-1-i-next-gen-ai-pc-1-2x21-8939d2d4f210bc900790f7fa03bbfce2560ac05bd90998e7e68e94c705af45a5.jpg",
+      "replacement": "assets/stock/laptop-8533592-738x364.jpg",
+      "category": "laptop",
+      "width": 738,
+      "height": 364,
+      "source": "https://www.pexels.com/photo/photo-of-a-silver-laptop-8533592/",
+      "download": "https://images.pexels.com/photos/8533592/pexels-photo-8533592.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=738&h=364"
+    },
+    {
+      "original": "assets/hp_com/hp-elite-book-x-flip-g-1-i-next-gen-ai-pc-1-2x23-7812042efabfe5b3a51b8c96b81a891c166b7354ee961f930504e158b5dc581a.jpg",
+      "replacement": "assets/stock/laptop-8533592-738x364.jpg",
+      "category": "laptop",
+      "width": 738,
+      "height": 364,
+      "source": "https://www.pexels.com/photo/photo-of-a-silver-laptop-8533592/",
+      "download": "https://images.pexels.com/photos/8533592/pexels-photo-8533592.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=738&h=364"
+    },
+    {
+      "original": "assets/hp_com/hp-elite-book-x-flip-g-1-i-next-gen-ai-pc-2-atmo-c5b7ebc76fe9bf83a85db19229c51baed1dc75de25de051fc26f290a98abd9b2.png",
+      "replacement": "assets/stock/laptop-8533592-738x364.jpg",
+      "category": "laptop",
+      "width": 738,
+      "height": 364,
+      "source": "https://www.pexels.com/photo/photo-of-a-silver-laptop-8533592/",
+      "download": "https://images.pexels.com/photos/8533592/pexels-photo-8533592.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=738&h=364"
+    },
+    {
+      "original": "assets/hp_com/hp-elite-book-x-g-1-i-next-gen-ai-pc-2-atmospher-7fecc794c57e67fd90c44ca8d2ebf9957cf8f2c7c03300099c25c4de35c27cfa.jpg",
+      "replacement": "assets/stock/laptop-8533592-738x364.jpg",
+      "category": "laptop",
+      "width": 738,
+      "height": 364,
+      "source": "https://www.pexels.com/photo/photo-of-a-silver-laptop-8533592/",
+      "download": "https://images.pexels.com/photos/8533592/pexels-photo-8533592.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=738&h=364"
+    },
+    {
+      "original": "assets/hp_com/hp-elitebook-x-flip-g2i-2x-369b218c8b8192d7390513711b623f4bbef109e3e7648dd44029f2f7d9117e5e.jpg",
+      "replacement": "assets/stock/laptop-8533592-564x368.jpg",
+      "category": "laptop",
+      "width": 564,
+      "height": 368,
+      "source": "https://www.pexels.com/photo/photo-of-a-silver-laptop-8533592/",
+      "download": "https://images.pexels.com/photos/8533592/pexels-photo-8533592.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=564&h=368"
+    },
+    {
+      "original": "assets/hp_com/hp-elitebook-x-g2a-2x-319d0e52ea971f4f1a6a9bc5c86d868a5a0778e8bdd9e5fa2f5f49ecb0d9330b.jpg",
+      "replacement": "assets/stock/laptop-8533592-564x368.jpg",
+      "category": "laptop",
+      "width": 564,
+      "height": 368,
+      "source": "https://www.pexels.com/photo/photo-of-a-silver-laptop-8533592/",
+      "download": "https://images.pexels.com/photos/8533592/pexels-photo-8533592.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=564&h=368"
+    },
+    {
+      "original": "assets/hp_com/hp-elitebook-x-g2i-2x-319d0e52ea971f4f1a6a9bc5c86d868a5a0778e8bdd9e5fa2f5f49ecb0d9330b.jpg",
+      "replacement": "assets/stock/laptop-8533592-564x368.jpg",
+      "category": "laptop",
+      "width": 564,
+      "height": 368,
+      "source": "https://www.pexels.com/photo/photo-of-a-silver-laptop-8533592/",
+      "download": "https://images.pexels.com/photos/8533592/pexels-photo-8533592.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=564&h=368"
+    },
+    {
+      "original": "assets/hp_com/hp-elitebook-x-g2q-2x-319d0e52ea971f4f1a6a9bc5c86d868a5a0778e8bdd9e5fa2f5f49ecb0d9330b.jpg",
+      "replacement": "assets/stock/laptop-8533592-564x368.jpg",
+      "category": "laptop",
+      "width": 564,
+      "height": 368,
+      "source": "https://www.pexels.com/photo/photo-of-a-silver-laptop-8533592/",
+      "download": "https://images.pexels.com/photos/8533592/pexels-photo-8533592.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=564&h=368"
+    },
+    {
+      "original": "assets/hp_com/hp-iq-enabled-intelligent-ecosystem-2x-4986e0279877331f8f4ef114ab5e292b117827dbfeb32b1680eafe9fa74d7bdd.jpg",
+      "replacement": "assets/stock/meeting-7652176-2000x1101.jpg",
+      "category": "meeting",
+      "width": 2000,
+      "height": 1101,
+      "source": "https://www.pexels.com/photo/7652176/",
+      "download": "https://images.pexels.com/photos/7652176/pexels-photo-7652176.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=2000&h=1101"
+    },
+    {
+      "original": "assets/hp_com/hp-renew-executive-16-inch-backpack-2x-45ba47dfb31eeccf1447ffad76939f4fb0580152e3024a92c5778494aa7e29c8.jpg",
+      "replacement": "assets/stock/backpack-13972298-564x500.jpg",
+      "category": "backpack",
+      "width": 564,
+      "height": 500,
+      "source": "https://www.pexels.com/photo/13972298/",
+      "download": "https://images.pexels.com/photos/13972298/pexels-photo-13972298.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=564&h=500"
+    },
+    {
+      "original": "assets/hp_com/hp-series-7-pro-27-inch-4k-conferencing-monitor--9fb734a7fe136602cfced15b4a183acf522292130f4fd1794c219af1a73c002d.jpg",
+      "replacement": "assets/stock/monitor-27559512-564x500.jpg",
+      "category": "monitor",
+      "width": 564,
+      "height": 500,
+      "source": "https://www.pexels.com/photo/27559512/",
+      "download": "https://images.pexels.com/photos/27559512/pexels-photo-27559512.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=564&h=500"
+    },
+    {
+      "original": "assets/hp_com/hp-sustainable-pc-portfolio-desktop-2x-5cfe5914a4d1c9a70e5e1f270f5f685b0be9bd233161e985428e330e5b9b2021.jpg",
+      "replacement": "assets/stock/forest-14101532-2000x985.jpg",
+      "category": "forest",
+      "width": 2000,
+      "height": 985,
+      "source": "https://www.pexels.com/photo/14101532/",
+      "download": "https://images.pexels.com/photos/14101532/pexels-photo-14101532.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=2000&h=985"
+    },
+    {
+      "original": "assets/hp_com/hp-sustainable-pc-portfolio-mob-2x-3b7f0e5fe62c9ae1699ac3ac91eca01c4fb975b2f2282065c5c863449d2ffa05.jpg",
+      "replacement": "assets/stock/forest-14101532-720x564.jpg",
+      "category": "forest",
+      "width": 720,
+      "height": 564,
+      "source": "https://www.pexels.com/photo/14101532/",
+      "download": "https://images.pexels.com/photos/14101532/pexels-photo-14101532.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=720&h=564"
+    },
+    {
+      "original": "assets/hp_com/ink-toner-and-paper-402x-53cac55fc04de117f8547b4a6302b820e057b411ae7d1c801aece3bf60eea7c2.jpg",
+      "replacement": "assets/stock/printer-7964429-540x441.jpg",
+      "category": "printer",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/7964429/",
+      "download": "https://images.pexels.com/photos/7964429/pexels-photo-7964429.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/ksp-01_brilliant-display-2x-285557ea30321deb28f756dc2dd6cfbc62652269d8e6636bb7e2259bcfa33f6e.png",
+      "replacement": "assets/stock/desk-7873551-2000x657.jpg",
+      "category": "desk",
+      "width": 2000,
+      "height": 657,
+      "source": "https://www.pexels.com/photo/7873551/",
+      "download": "https://images.pexels.com/photos/7873551/pexels-photo-7873551.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=2000&h=657"
+    },
+    {
+      "original": "assets/hp_com/ksp-01_brilliant-display-mob-2x-ed5b4a74dd7e56cd82a5b4f444f17d4f52637915ba263b9aaab09716b82fb65b.jpg",
+      "replacement": "assets/stock/desk-7873551-640x640.jpg",
+      "category": "desk",
+      "width": 640,
+      "height": 640,
+      "source": "https://www.pexels.com/photo/7873551/",
+      "download": "https://images.pexels.com/photos/7873551/pexels-photo-7873551.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=640&h=640"
+    },
+    {
+      "original": "assets/hp_com/ksp-02_be-the-one-they-remember-2x-a87428f1f2c750d77e743d910ec1e46945e29987e497c7030d8034caf4a2bb90.jpg",
+      "replacement": "assets/stock/meeting-7652176-2000x657.jpg",
+      "category": "meeting",
+      "width": 2000,
+      "height": 657,
+      "source": "https://www.pexels.com/photo/7652176/",
+      "download": "https://images.pexels.com/photos/7652176/pexels-photo-7652176.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=2000&h=657"
+    },
+    {
+      "original": "assets/hp_com/ksp-02_be-the-one-they-remember-mob-2x-a2a01c13f2adad94b369ae97ddd274286e603b0044f0c81844822a23d7e9f51c.jpg",
+      "replacement": "assets/stock/meeting-7652176-640x640.jpg",
+      "category": "meeting",
+      "width": 640,
+      "height": 640,
+      "source": "https://www.pexels.com/photo/7652176/",
+      "download": "https://images.pexels.com/photos/7652176/pexels-photo-7652176.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=640&h=640"
+    },
+    {
+      "original": "assets/hp_com/laptops-for-gaming-402x-26a165e71961df8c99be9ad3fd4df4a48767e572ea0c9891f85873d6af07a120.jpg",
+      "replacement": "assets/stock/gaming-7845312-540x441.jpg",
+      "category": "gaming",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/7845312/",
+      "download": "https://images.pexels.com/photos/7845312/pexels-photo-7845312.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/laptops-for-home-402x-b6416e97830362660dfd157e053f789b8d6b2c2b3c7a43fd03cf28b3c2929f60.jpg",
+      "replacement": "assets/stock/laptop-8533592-540x441.jpg",
+      "category": "laptop",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/photo-of-a-silver-laptop-8533592/",
+      "download": "https://images.pexels.com/photos/8533592/pexels-photo-8533592.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/laptops-for-work2-402x-f8da071e33b40aad37fc9d3f5ecba9597d7e1ab2d4e4930b324b426d839caba1.jpg",
+      "replacement": "assets/stock/laptop-8533592-540x441.jpg",
+      "category": "laptop",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/photo-of-a-silver-laptop-8533592/",
+      "download": "https://images.pexels.com/photos/8533592/pexels-photo-8533592.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/large-format-printers-and-plotters-402x-a9de973f00d216ff552e29fc190f1c9b1c58da20234105314daf9c44a66428f3.jpg",
+      "replacement": "assets/stock/printer-7964429-540x441.jpg",
+      "category": "printer",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/7964429/",
+      "download": "https://images.pexels.com/photos/7964429/pexels-photo-7964429.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/mobile-workstations-402x-a3aafe1c92cbf5e9d2fded193e8edd0f27b6ac10705121ee89bf9aef93565d20.jpg",
+      "replacement": "assets/stock/monitor-27559512-540x441.jpg",
+      "category": "monitor",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/27559512/",
+      "download": "https://images.pexels.com/photos/27559512/pexels-photo-27559512.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/printers-for-home-402x-bf521609ba4775255688717620678123c061fe0ece1d1fac4f405b5d093d73c9.jpg",
+      "replacement": "assets/stock/printer-7964429-540x441.jpg",
+      "category": "printer",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/7964429/",
+      "download": "https://images.pexels.com/photos/7964429/pexels-photo-7964429.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/printers-for-work-402x-c48275d4d97bc22abe242b06d9a88539f555a04f63041b389a9df112538a831c.jpg",
+      "replacement": "assets/stock/printer-7964429-540x441.jpg",
+      "category": "printer",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/7964429/",
+      "download": "https://images.pexels.com/photos/7964429/pexels-photo-7964429.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/software-and-drivers-402x-8af7bddad976d942867a59436d881d312696d0d6b61e97a092037ad42b42c71d.jpg",
+      "replacement": "assets/stock/office-8518624-540x441.jpg",
+      "category": "office",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/8518624/",
+      "download": "https://images.pexels.com/photos/8518624/pexels-photo-8518624.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/support-and-troubleshooting-402x-4738684b1dab2b5ebacb1d9ae5519237849818a3b9ec17a5e346fa0df0e376c5.jpg",
+      "replacement": "assets/stock/office-8518624-540x441.jpg",
+      "category": "office",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/8518624/",
+      "download": "https://images.pexels.com/photos/8518624/pexels-photo-8518624.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/video-and-voice-accessories-402x-2dc2ca1bd97f1d5e62cce6d1729c229e5896c19cfb3cd16e8740cb9ec287b5e3.jpg",
+      "replacement": "assets/stock/headphones-7690085-540x441.jpg",
+      "category": "headphones",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/7690085/",
+      "download": "https://images.pexels.com/photos/7690085/pexels-photo-7690085.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/video-and-voice-collaboration-402x-adc1bbbbe50ed50d94c02ba20e4545a9de4cd84b81ad1dfb33546020f3121af7.png",
+      "replacement": "assets/stock/meeting-7652176-540x441.jpg",
+      "category": "meeting",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/7652176/",
+      "download": "https://images.pexels.com/photos/7652176/pexels-photo-7652176.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    },
+    {
+      "original": "assets/hp_com/voyager-free-60-carbon-earbuds-2x-3745eb4db57a87740d81e0469ccf06e5779bfa272e56ebf935ecd2e154c7790c.jpg",
+      "replacement": "assets/stock/headphones-7690085-564x500.jpg",
+      "category": "headphones",
+      "width": 564,
+      "height": 500,
+      "source": "https://www.pexels.com/photo/7690085/",
+      "download": "https://images.pexels.com/photos/7690085/pexels-photo-7690085.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=564&h=500"
+    },
+    {
+      "original": "assets/hp_com/workstations-402x-554df384a7ee37fa503405c86ba157c63ef756cca780b2f4e3707d19a1e1cef0.jpg",
+      "replacement": "assets/stock/monitor-27559512-540x441.jpg",
+      "category": "monitor",
+      "width": 540,
+      "height": 441,
+      "source": "https://www.pexels.com/photo/27559512/",
+      "download": "https://images.pexels.com/photos/27559512/pexels-photo-27559512.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=540&h=441"
+    }
+  ]
+}
